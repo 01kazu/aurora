@@ -1,0 +1,11 @@
+import random
+import time
+print "HELLO, WHAT'S YOUR NAME ?\n"
+name = raw_input('>>>').upper()
+print "WELCOME", name + ", THIS IS PROGRAM THAT SOLVES SIMUTANUEOUS EQUATIONS"
+print "PLACE EQUATION BELOW"
+
+print "USING MAGIC AND OTHER THINGS OF SUCH NATURE"
+print "JUST KIDDING"
+print "WE WOULD BE USING DIFFERENT METHODS"
+
