@@ -25,7 +25,7 @@ def swap_numbers():
     time.sleep(3)
     print 'Now'
     print 'Your first number is',num1
-    print 'Second number is',num2
+    print 'The second number is',num2
     return
 import time
 swap_numbers()
